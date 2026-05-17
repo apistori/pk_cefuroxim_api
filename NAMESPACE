@@ -1,0 +1,3 @@
+useDynLib(pkcefuroximapi)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
